@@ -9,7 +9,5 @@ If this project helps you, please fork, watch, and give a star to this repositor
 If you find our repository useful for your research, please consider citing our paper:
 
 ```
-@misc{
-DCC
-}
+@misc{DCC2024}
 ```
