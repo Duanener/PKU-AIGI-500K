@@ -1,4 +1,5 @@
 # PKU-AIGI-500K
+**Xunxu Duan, Chuanmin Jia**
 
 This repository is the official repository of the PKU-AIGI-500K benchmark.
 
