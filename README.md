@@ -7,6 +7,7 @@ If this project helps you, please fork, watch, and give a star to this repositor
 # Reference
 If you find our repository useful for your research, please consider citing our paper:
 
+```
 @misc{zhu2023genimage,
       title={GenImage: A Million-Scale Benchmark for Detecting AI-Generated Image}, 
       author={Mingjian Zhu and Hanting Chen and Qiangyu Yan and Xudong Huang and Guanyu Lin and Wei Li and Zhijun Tu and Hailin Hu and Jie Hu and Yunhe Wang},
@@ -15,3 +16,4 @@ If you find our repository useful for your research, please consider citing our 
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+```
