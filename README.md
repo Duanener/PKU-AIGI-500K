@@ -7,9 +7,9 @@
 
 :smiley:If this project helps you, please fork, watch, and give a star to this repository.
 
-![pipeline](./assets/why.png)
+![pipeline](./assets/why.png) 
 
-![pipeline](./assets/pipeline.png)
+<!-- ![pipeline](./assets/pipeline.png) -->
 
 
 
