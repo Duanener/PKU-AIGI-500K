@@ -35,6 +35,9 @@
 ### Color
 ![color](./assets/color.png)
 
+## Benckmark
+![benchmark](./assets/benchmark.png)
+
 # Citation
 :smiley:If you find our repository useful for your research, please consider citing our paper:
 
