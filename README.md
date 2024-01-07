@@ -12,6 +12,8 @@
 
 ![why](./assets/why.png) 
 
+## Statistics
+
 <!-- ![pipeline](./assets/pipeline.png) -->
 
 
