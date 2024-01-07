@@ -6,7 +6,7 @@
 :smiley:If this project helps you, please fork, watch, and give a star to this repository.
 
 
-# Reference
+# Citation
 :smiley:If you find our repository useful for your research, please consider citing our paper:
 
 ```
