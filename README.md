@@ -7,7 +7,7 @@
 
 :smiley:If this project helps you, please fork, watch, and give a star to this repository.
 
-# Dataset
+<!-- # Dataset -->
 
 ![example](./assets/example.jpg) 
 
@@ -27,7 +27,13 @@
 
 <!-- ![pipeline](./assets/pipeline.png) -->
 
-
+## Image Characteristics
+### Hallucination
+![quality](./assets/quality.png)
+### Texture
+![texture](./assets/texture.png)
+### Color
+![color](./assets/color.png)
 
 # Citation
 :smiley:If you find our repository useful for your research, please consider citing our paper:
