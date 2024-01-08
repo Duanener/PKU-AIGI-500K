@@ -1,7 +1,7 @@
 # <center> PKU-AIGI-500K
 **Xunxu Duan, Hongbin Liu, Li Zhang, [Chuanmin Jia](http://www.jiachuanmin.site/index.html)**
 
-
+[Project Page](https://duanxunxu.github.io/PKU-AIGI-500K/) | [Paper](https://duanxunxu.github.io/PKU-AIGI-500K/) | 
 
 :hammer:This repository is the official repository of the PKU-AIGI-500K benchmark.
 
