@@ -9,10 +9,10 @@
 
 <!-- # Dataset -->
 
-![example](./assets/example.jpg) 
+![example](./static/images/example.jpg) 
 
 
-![why](./assets/why.png) 
+![why](./static/images/why.png) 
 
 ## Statistics
 |            |      Train    |  Validation  |    Test     |   Size  |
@@ -25,18 +25,6 @@
 
 **Total**: 105k+ texts, 528k+ images, ~455G.
 
-<!-- ![pipeline](./assets/pipeline.png) -->
-
-## Image Characteristics
-### Hallucination
-![quality](./assets/quality.png)
-### Texture
-![texture](./assets/texture.png)
-### Color
-![color](./assets/color.png)
-
-## Benckmark
-![benchmark](./assets/benchmark.png)
 
 # Citation
 :smiley:If you find our repository useful for your research, please consider citing our paper:
