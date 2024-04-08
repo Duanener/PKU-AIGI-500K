@@ -30,5 +30,14 @@
 :smiley:If you find our repository useful for your research, please consider citing our paper:
 
 ```
-@misc{DCC2024}
+@ARTICLE{10493034,
+  author={Duan, Xunxu and Ma, Siwei and Liu, Hongbin and Jia, Chuanmin},
+  journal={IEEE Journal on Emerging and Selected Topics in Circuits and Systems}, 
+  title={PKU-AIGI-500K: A Neural Compression Benchmark And Model for AI-Generated Images}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Image coding;Codecs;Circuits and systems;Measurement;Image synthesis;Image quality;Integrated circuit modeling;Image Compression;AIGI;image Feature;text-to-image alignment and subjective evaluation},
+  doi={10.1109/JETCAS.2024.3385629}}
 ```
