@@ -3,7 +3,7 @@
 
 **JETCAS 2024: Xunxu Duan, Siwei Ma, Hongbin Liu, [Chuanmin Jia](http://www.jiachuanmin.site/index.html)**
 
-[Project Page](https://duanener.github.io/PKU-AIGI-500K/) | [Paper 1](https://duanener.github.io/PKU-AIGI-500K/) | [Paper 2](https://ieeexplore.ieee.org/document/10493034)
+[Project Page](https://duanener.github.io/PKU-AIGI-500K/) | [Paper 1](https://ieeexplore.ieee.org/abstract/document/10533760) | [Paper 2](https://ieeexplore.ieee.org/document/10493034)
 
 :hammer:This repository is the official repository of the PKU-AIGI-500K benchmark.
 
